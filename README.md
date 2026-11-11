@@ -1,5 +1,9 @@
 # GitCraft AI
 
+<img width="1908" height="886" alt="Screenshot 2026-11-11 092938" src="https://github.com/user-attachments/assets/33db26fa-1771-4732-ac29-a1e0c535a28c" />
+
+
+
 A Streamlit tool for generating clean GitHub READMEs and system architecture diagrams in seconds.
 
 ## Features
