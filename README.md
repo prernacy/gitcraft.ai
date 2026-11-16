@@ -31,5 +31,5 @@ A Python-based web application built with Streamlit that generates structured Gi
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/gitcraft-ai.git](https://github.com/your-username/gitcraft-ai.git)
-   cd gitcraft-ai
+   git clone https://github.com/prernacy/gitcraft.ai.git
+cd gitcraft.ai
