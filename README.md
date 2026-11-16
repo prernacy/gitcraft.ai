@@ -32,4 +32,4 @@ A Python-based web application built with Streamlit that generates structured Gi
 1. Clone the repository:
    ```bash
    git clone https://github.com/prernacy/gitcraft.ai.git
-cd gitcraft.ai
+   cd gitcraft.ai
